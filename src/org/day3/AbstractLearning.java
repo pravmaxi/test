@@ -4,6 +4,7 @@ public class AbstractLearning {
 	
 	public static void main(String[] args) {
 		System.out.println("raj");
+		System.out.println("harish");
 	}
 		
 		
